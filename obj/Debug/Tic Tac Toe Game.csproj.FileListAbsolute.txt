@@ -1,0 +1,10 @@
+C:\Users\lap2p\source\repos\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.csproj.AssemblyReference.cache
+C:\Users\lap2p\source\repos\Tic Tac Toe Game\obj\Debug\Tic_Tac_Toe_Game.Properties.Resources.resources
+C:\Users\lap2p\source\repos\Tic Tac Toe Game\obj\Debug\Tic_Tac_Toe_Game.Tic_Tac_Toe_Game.resources
+C:\Users\lap2p\source\repos\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.csproj.GenerateResource.cache
+C:\Users\lap2p\source\repos\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.csproj.CoreCompileInputs.cache
+C:\Users\lap2p\source\repos\Tic Tac Toe Game\bin\Debug\Tic Tac Toe Game.exe.config
+C:\Users\lap2p\source\repos\Tic Tac Toe Game\bin\Debug\Tic Tac Toe Game.exe
+C:\Users\lap2p\source\repos\Tic Tac Toe Game\bin\Debug\Tic Tac Toe Game.pdb
+C:\Users\lap2p\source\repos\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.exe
+C:\Users\lap2p\source\repos\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.pdb
